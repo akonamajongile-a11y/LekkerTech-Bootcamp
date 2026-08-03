@@ -1,4 +1,4 @@
-guest_age = 17
+guest_age = int(input("Your age:"))
 has_ticket = True
 is_vip = False
 
@@ -11,4 +11,3 @@ elif guest_age < 18 and is_vip is True:
 else: 
     print("Access denied.")
 
-    
