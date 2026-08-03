@@ -1,4 +1,6 @@
-"""   """
+"""This script calculates the financial and portion breakdowns for a braai event.
+It culculates the total cost of meat, the cost distribution per guest, 
+and determines any leftover meat after equal distribution among guests."""
 meat_kg = 15.0                          
 cost_per_kg = 86.0                               
 number_of_guests = 10                       
