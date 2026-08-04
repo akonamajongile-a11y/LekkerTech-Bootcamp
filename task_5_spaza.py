@@ -6,9 +6,9 @@ for item in shopping_list:
     print("Looking for:", item)
     
     if item == "coke": 
-      print("Found coke stoping search")
+     print("Found coke stoping search")
+     break
 
-    break
 for item in shopping_list:
     
     if item == "sweets":
